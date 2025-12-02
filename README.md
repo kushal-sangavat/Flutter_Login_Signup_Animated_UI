@@ -16,9 +16,9 @@
 ## 📸 **Screenshots**
 
 <p align="center">
-  <img src="assets/Screenshot_Login.png" alt="Login Screen" width="350" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/Screenshot_Signup.png" alt="Signup Screen" width="350" />
+  <img src="assets/Screenshot_Signup.png" alt="Login Screen" width="300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/Screenshot_Login.png" alt="Signup Screen" width="300" />
 </p>
 
 ---
@@ -47,5 +47,5 @@
 
 ---
 
-## 📂 **Folder Structure**
+
 
