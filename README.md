@@ -16,12 +16,16 @@
 ## 📸 **Screenshots**
 
 ### 🔵 **Login Screen**
-> *(Insert your login page screenshot here)*  
-![Login Screen](assets/Screenshot_Login.png)
+> *(Insert your login page screenshot here)*
+<p align="center">
+  <img src="assets/Screenshot_Login.png" width="400" />
+</p>
 
 ### 🟢 **Signup Screen**
-> *(Insert your signup page screenshot here)*  
-![Signup Screen](assets/Screenshot_Signup.png)
+> *(Insert your signup page screenshot here)*
+<p align="center">
+  <img src="assets/Screenshot_Signup.png" width="400" />
+</p>
 
 ---
 
@@ -49,5 +53,5 @@
 
 ---
 
-## 📂 **Folder Structure**
+
 
